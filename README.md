@@ -6,7 +6,11 @@ All of the code is in Google Colab Notebook. Simply download it and upload it in
 
 # Cross Validation Results
 ![image](https://user-images.githubusercontent.com/62225369/119423386-2a5f2f80-bcd1-11eb-9316-77c9e9fe3308.png)
+
 ![image](https://user-images.githubusercontent.com/62225369/119423412-36e38800-bcd1-11eb-8eec-1c8771937f46.png)
+
 ![image](https://user-images.githubusercontent.com/62225369/119423450-49f65800-bcd1-11eb-99d8-6a466697cc5d.png)
+
 ![image](https://user-images.githubusercontent.com/62225369/119423467-57abdd80-bcd1-11eb-887a-b94ce662575e.png)
+
 ![image](https://user-images.githubusercontent.com/62225369/119423484-672b2680-bcd1-11eb-90aa-1eb9f91e892e.png)
